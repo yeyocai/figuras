@@ -22,7 +22,7 @@ public class Rectangulo {
 		return this.alto + this.ancho;
 	}
 	
-	public int Resultado( ) {
+	public int Resultado() {
 		return 5;
 	}
 }
